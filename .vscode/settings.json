@@ -9,4 +9,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "appService.defaultWebAppToDeploy": "/subscriptions/67ad8779-e404-4f82-b757-39b101d36f60/resourceGroups/AppServiceTutorial-rg/providers/Microsoft.Web/sites/VanschyndelExpress",
 }
